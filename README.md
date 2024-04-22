@@ -13,3 +13,23 @@
 <a href='https://signup.heroku.com/' 
 target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ---
+#### Deploy To Replit
+
+<a href="https://replit.com/@danupaacedemy/OZZY-md"><img title="OZZY md Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+---
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
+• Sri Lanka Best and fast whatsapp bot
+<br>
+
+  <p align="center">  
+  <a href="https://telegra.ph/file/105f7645688f80ccec88f.jpg">
+    <img alt="vivu-md" height="300" src="https://telegra.ph/file/105f7645688f80ccec88f.jpg">
+    
+  < Loading...
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+---
