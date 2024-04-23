@@ -7,7 +7,7 @@
 [`SCAN QR CODE`](https://gpt-qr-code.onrender.com/)  <i> : Scan Showing Qr Code Using Your Whatsapp ( Click Upper Right side three dots > Click Linked Devices > Scan Qr Code )</i>
 ----
 ( No need Do this if you using heroku ) Upload <b>creds.json</b> File in to <b>[`ai_bot_sessions`](ai_bot_sessions)</b> Folder.
-  Or put SESSION_ID to [`settings.js`](/settings.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
+  Or put SESSION_ID to [`config.js`](/config.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
  4. Deploy Using 
  ---
 ## > <b><s1>1.ғɪʀsᴛ ғʀᴏᴋ ɢɪᴛʜᴜʙ</b></s1> 
