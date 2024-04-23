@@ -2,7 +2,7 @@
 
 #### 📌 Using Replit Template.
 
-1. [`Fork This Reple`](https://replit.com/@danupaacedemy/OZZY-chat-bot?v=1)
+1. [`Fork This Reple`](https://replit.com/@danupaacedemy/OZZY-md-Pair-code?v=1)
 2. Update settings.js add password 
 3. Click To Run Button & Scan Qr Code Using Your Whatsapp.
 
@@ -20,4 +20,4 @@
 
 
 
-###### Bot By Mr Nima.
+###### Bot By Danupa.
