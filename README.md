@@ -5,7 +5,7 @@
 ---
 ## > <b><s1>2.sᴄᴀɴ ǫʀ ᴄᴏᴅᴇ ᴏʀ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ</b></s1> 
 [`SCAN QR CODE`](https://gpt-qr-code.onrender.com/)  <i> : Scan Showing Qr Code Using Your Whatsapp ( Click Upper Right side three dots > Click Linked Devices > Scan Qr Code )</i>
----
+----
 ( No need Do this if you using heroku ) Upload <b>creds.json</b> File in to <b>[`ai_bot_sessions`](ai_bot_sessions)</b> Folder.
   Or put SESSION_ID to [`settings.js`](/settings.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
  4. Deploy Using 
@@ -19,6 +19,10 @@ target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-blac
 ---
 3. ### Deploy On Replit
 [`Replit`](md/deploy_on_replit.md)
+---
+[`CLICK TO GET API KEY`](https://platform.openai.com/docs/)
+---
+### AI PASSWORD = king-nima-gpt-bot
 ---
 <!--- snake -->
 <div align="center">
