@@ -1,0 +1,41 @@
+{
+  "name": "open-ai-chatGPT-bot",
+  "version": "2.0.0",
+  "description": "OZZY chat gpt bot allows you to use OpenAi(chatGPT) on Whatsapp.",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "openai",
+    "whatsapp-bot",
+    "chatgpt",
+    "baileys-md",
+    "bot-wa",
+    "bot-md",
+    "whatsapp-multi-device"
+  ],
+  "author": "Danupa",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:mrnima-baileys@6.0.3",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "chalk": "^4.1.2",
+    "ozzy-openai-chatgpt-bot": "^0.1.4",
+    "openai": "^3.1.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danupa0/OZZY-chat-bot"
+  },
+  "bugs": {
+    "url": "https://github.com/Danupa0/OZZY-chat-bot"
+  },
+  "homepage": "https://github.com/Danupa0/OZZY-chat-bot"
+}
