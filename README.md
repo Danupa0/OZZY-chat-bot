@@ -24,13 +24,8 @@ target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-blac
 ---
 ### AI PASSWORD = king-nima-gpt-bot
 ---
-### Example Bot down
-<br>
-
-  <p align="center">  
-  <a href="(https://telegra.ph/file/e67c72bd83f2132dc1803.jpg)">
-    <img alt="OZZY md" height="300" src="(https://telegra.ph/file/e67c72bd83f2132dc1803.jpg)">
-    ---
+[`SCREEN SHOT BOT-CHAT`](https://telegra.ph/file/e67c72bd83f2132dc1803.jpg) <i> : Click This If You Want see Example Chat.</i>
+---
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
