@@ -18,7 +18,7 @@
 target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ---
 3. ### Deploy On Replit
-[`Replit`](md/deploy_on_replit.md)
+[`Replit`](https://github.com/Danupa0/OZZY-chat-bot/blob/main/md/deplou_on_replit.md)
 ---
 [`CLICK TO GET API KEY`](https://platform.openai.com/docs/)
 ---
