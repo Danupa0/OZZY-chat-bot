@@ -13,13 +13,10 @@
 ## > <b><s1>1.ғɪʀsᴛ ғʀᴏᴋ ɢɪᴛʜᴜʙ</b></s1> 
 ## <a href='https://github.com/Danupa0/OZZY md/fork/' target="_blank"><img alt='FORK GIT' src='https://img.shields.io/badge/Frok_Github-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 ---
-## > <b><s1>2.ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ ɪɴ ʜᴇʀᴏᴋᴜ. ᴄʀᴇᴀᴛᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ. </b></s1> 
-<a href='https://signup.heroku.com/' 
-target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
----
 3. ### Deploy On Replit
 [`Replit`](https://github.com/Danupa0/OZZY-chat-bot/blob/main/md/deplou_on_replit.md)
 ---
+Api Key down
 [`CLICK TO GET API KEY`](https://platform.openai.com/docs/)
 ---
 ### AI PASSWORD = king-nima-gpt-bot
